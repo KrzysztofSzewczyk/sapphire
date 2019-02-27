@@ -1,0 +1,5 @@
+fn double(n: Int) -> Int {
+    return n*2;
+}
+
+io.putchar(double(32) + 1);

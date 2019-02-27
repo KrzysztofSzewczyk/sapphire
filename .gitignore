@@ -1,1 +1,5 @@
 sapphire/__pycache__/*
+sapphire/bfasm
+test.sh
+output.b
+bfi
